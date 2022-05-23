@@ -1,0 +1,41 @@
+  div {
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+  
+  h1 {
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 15%;
+    font-weight: bold;
+  }
+  h2 {
+    font-family: Lato;
+    font-style: italic;
+    font-weight: bold;
+    margin-left: 15%;
+  }
+
+  .name {
+    text-align: left;
+    width: 15%;
+  }
+  
+  .descr {
+    text-align: left;
+    width: 30%;
+  }
+
+  .rurl {
+    text-align: left;
+    width: 30%;
+  }
+
+  .mat-form-field {
+    width: 30%;
+    padding-left: 70%;
+  }
+
+  td {
+    text-align: center;
+    margin-inline: 10px;
+  }
